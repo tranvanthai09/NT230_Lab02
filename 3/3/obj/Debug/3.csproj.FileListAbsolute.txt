@@ -1,0 +1,9 @@
+C:\Users\Tran Van Thai\source\repos\3\3\bin\Debug\3.exe.config
+C:\Users\Tran Van Thai\source\repos\3\3\bin\Debug\3.exe
+C:\Users\Tran Van Thai\source\repos\3\3\bin\Debug\3.pdb
+C:\Users\Tran Van Thai\source\repos\3\3\obj\Debug\3.csproj.AssemblyReference.cache
+C:\Users\Tran Van Thai\source\repos\3\3\obj\Debug\_3.ProjectInstaller.resources
+C:\Users\Tran Van Thai\source\repos\3\3\obj\Debug\3.csproj.GenerateResource.cache
+C:\Users\Tran Van Thai\source\repos\3\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\Users\Tran Van Thai\source\repos\3\3\obj\Debug\3.exe
+C:\Users\Tran Van Thai\source\repos\3\3\obj\Debug\3.pdb
